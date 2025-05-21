@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![NFT Badge](https://github-nft-fawn.vercel.app/api/nft-badge?address=0xFd9daf85D7B50C0027cbDF5815F0450baF0A29Ab)
+![NFT Badge](https://github-nft-fawn.vercel.app/api/nft-badge?address=0x31Dd27f6f3467e0876B2CC568264Bd2186aEda67)
 
 <!--
 **CHENFANGC/chenfangc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
